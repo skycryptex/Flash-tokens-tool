@@ -1,5 +1,5 @@
 # Flash-tokens-tool
-Light tool for Win flashing ERC-20
+Light tool for Win flashing swapable ERC-20 tokens.
 
 Use rensponsibly!
 
